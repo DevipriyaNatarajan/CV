@@ -1,0 +1,29 @@
+body{
+   background-color: #ECF9FF;
+}
+title, h1 ,h3{
+  color:#3C84AB;
+}
+.table{
+  border-collapse:collapse;
+  border-width: 1px;
+}
+.new{
+  padding:10px 10px 10px 10px;
+}
+.new1{
+  padding:10px 10px 10px 10px;
+}
+.new2{
+  padding:10px 10px 10px 10px;
+}
+.new3{
+  padding:10px 10px 10px 10px;
+}
+hr{
+  border-style: dotted;
+  border-width: 3px;
+  border-color: grey;
+  width: 50px;
+  border-top:none;  
+}
